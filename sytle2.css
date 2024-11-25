@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.contect{
+    background-color: #133655;
+    width: 700px;
+    height: 430px;
+    padding: 20px;
+    margin-left: 15em;
+    margin-top: 5em;
+    border-radius: 10px;
+    box-shadow: 0 0 5px red, 0 0 5px red;
+   
+    
+}
+.contect h1{
+    font-size: 35px;
+    color: #fff;
+    text-align: center;
+}
+
+.contect1 input{
+    display: flex;
+    width: 400px;
+    margin-top: 2em;
+    padding: 10px;
+    margin-left: 12em;
+    border-radius: 10px;
+    border: none;
+   padding: 9px;
+}
+.btn{
+    background-color: #fff;
+    padding: 8px 60px;
+    font-size: 20px;
+    color: #133655;
+    border-radius: 8px;
+    margin-top: 4%;
+    margin-left: 13em;
+
+}
+
+.btn:hover{
+    background-color: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+    font-size: 20px;
+}
